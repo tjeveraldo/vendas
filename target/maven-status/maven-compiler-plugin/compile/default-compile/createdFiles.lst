@@ -1,0 +1,7 @@
+io\github\tjeveraldo\domain\entity\Produto.class
+io\github\tjeveraldo\VendasApplication.class
+io\github\tjeveraldo\domain\entity\Cliente.class
+io\github\tjeveraldo\domain\repositorio\Clientes$1.class
+io\github\tjeveraldo\domain\entity\Pedido.class
+io\github\tjeveraldo\domain\repositorio\Clientes.class
+io\github\tjeveraldo\domain\entity\ItemPedido.class
